@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "name": "conf-comp-deb-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
