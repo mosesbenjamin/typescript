@@ -6,7 +6,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "tsc -v"
+    "test": "tsc -v",
+    "build": "tsc src/index.ts"
   },
   "keywords": [],
   "author": "",
